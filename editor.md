@@ -1,3 +1,3 @@
 # Editor
 
-<a href="//vscode.dev" class="btn btn-outline-primary">Editor</a>
+<a href="//vscode.dev">Editor</a>
