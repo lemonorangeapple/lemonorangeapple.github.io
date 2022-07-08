@@ -1,2 +1,2 @@
 # Editor
-<iframe src="https://vscode.dev/"></iframe>
+<a href="https://vscode.dev/">Editor</a>
