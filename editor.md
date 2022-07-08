@@ -1,8 +1,3 @@
 # Editor
 
-<script>
-  function tiaozhuan() {
-    window.open('http://vscode.dev/');
-  }
-</script>
-<button click="javascript:tiaozhuan()">Editor</button>
+<a href="//vscode.dev" class="btn btn-primary">Editor</a>
