@@ -1,0 +1,11 @@
+{
+    "flag": true,
+    "code": 0,
+    "desc": "成功",
+    "data": {
+        "totalPrice": 0.0,
+        "totalQuota": 0,
+        "leftQuota": 0,
+        "freeQuota": 99999
+    }
+}
